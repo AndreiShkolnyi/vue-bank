@@ -1,7 +1,28 @@
-# Vue 3 + Vite
+# Vue Bank
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+проект "Vue Bank"
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Описание
+
+С помощью данного приложения вы сможете производить учет заявок, просматривать информацию по заявкам, менять статус их выполнения, добавлять и удалять заявки в реальном времени.
+Доступ к приложению происходит при помощи авторизации.
+
+## Установка
+
+1. Клонируйте репозиторий: `https://github.com/volodin32104/vue-bank.git`
+2. Перейдите в каталог проекта: `cd vue-bank`
+3. Установите зависимости: `npm install` или `yarn install`
+
+## Используемые технологии:
+
+1. Vue 3
+2. Vuex
+3. HTML5
+4. SCSS
+5. Git
+6. Vite
+7. Vue Router
+8. Axios
+9. Vee validate
+10. Firebase API
