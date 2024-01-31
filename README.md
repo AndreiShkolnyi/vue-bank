@@ -4,6 +4,10 @@
 
 https://vue-bank-217e5.web.app
 
+Логин и пароль для авторизации в тестовом режиме: 
+login: test@test.ru
+password: test123
+
 
 ## Описание
 
